@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 </div>
+
 ## 👨‍💻 About Me
 - 🔭 Backend Developer from Egypt passionate about building scalable applications
 - 🌱 Currently exploring advanced Python frameworks and microservices architecture
@@ -20,7 +21,6 @@
   ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
@@ -31,9 +31,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafabadrshaalan&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </div>
 
-## 🔝 Most Used Languages
+## 🔝 Most Used Languages and Tools
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafabadrshaalan&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+### Python Ecosystem
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask&logoColor=white)
+  
+</div>
+
+### Python Libraries & Tools
+<div align="center">
+  
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Expert-red?style=for-the-badge&logo=python&logoColor=white)
+  ![Pytest](https://img.shields.io/badge/Pytest-Expert-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+  
 </div>
 
 ## 🤝 Connect with Me
@@ -50,4 +70,3 @@
   <img src="https://komarev.com/ghpvc/?username=mostafabadrshaalan&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/mostafabadrshaalan/mostafabadrshaalan/output/snake.svg" alt="Snake animation" />
